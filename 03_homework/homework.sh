@@ -36,4 +36,5 @@ cd ..
 # 9. How would you remove each directory along with its contents?
 rm -r FLRincon01 FLRincon02 FLRincon03 FLRincon04 FLRincon05
 # 10. How would you verify that all directories and files have been deleted?
-ls -R
+ls -al
+Corrected, as requested. Thank you :) 
